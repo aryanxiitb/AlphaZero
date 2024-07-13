@@ -54,4 +54,4 @@ This project implements a game-playing agent based on the AlphaZero algorithm, i
   2. To run the Arena Script: `python3 Arena.py`
   
 ## Contact
-For questions or suggestions, feel free to reach out at amanmoon099@gmail.com.
+For questions or suggestions, feel free to reach out.
